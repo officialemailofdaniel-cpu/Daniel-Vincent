@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mypdffree.com/sitemap.xml
